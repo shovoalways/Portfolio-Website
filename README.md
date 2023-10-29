@@ -1,7 +1,7 @@
 # Portfolio-Website
 
 ## 📝 Description
-I created a YouTube video on How to Build a Portfolio Website and here I teached how to buy domain/hosting, how to choose best design for the site and how to work with figma to wordpress convertion. You will learn how to setup wordpress to ready portfolio website. 
+I have produced an educational YouTube video that offers comprehensive guidance on crafting a professional portfolio website. In this tutorial, I impart knowledge on the intricacies of procuring domain and hosting services, selecting the most optimal design for your website, and executing a seamless conversion from Figma to WordPress. The video further delves into the meticulous setup of WordPress, ultimately resulting in a polished, ready-to-use portfolio website.
 
 ## ⏳ Prerequisite
 You need following skills to start with
