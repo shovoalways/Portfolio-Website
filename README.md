@@ -14,9 +14,6 @@ You need following skills to start with
 - [@Ali Hossain](https://github.com/shovoalways/)
 
 
-## Course URL (Playlist)👇
- - [WordPress Theme Development ](https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l)
-
 
 ## 🥰 Follow me
 - [@Github](https://github.com/shovoalways/) 
